@@ -6,11 +6,6 @@ The project includes data preprocessing, exploratory data analysis, model traini
 
 ---
 
-## 🚀 Live Demo
-
-(Add your Streamlit Cloud link here)
-
----
 
 # 📌 Project Overview
 
